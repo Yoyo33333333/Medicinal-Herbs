@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+flask-smorest
+flask-login
+python-dotenv
+marshmallow
+requests
+pandas
+werkzeug
+transformers
+
+
